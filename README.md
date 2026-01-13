@@ -1,40 +1,99 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛡️ Portfólio Profissional — Pentest Web Jr
 
-## Getting Started
+Este repositório contém meu **portfólio profissional como Pentest Web Júnior**, desenvolvido com foco em **segurança de aplicações web**, boas práticas de desenvolvimento frontend e apresentação clara de projetos, labs e estudos práticos em cibersegurança.
 
-First, run the development server:
+O objetivo deste projeto é demonstrar **conhecimento técnico**, **organização**, **mentalidade de segurança ofensiva** e evolução contínua na área de **Web Application Security**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Objetivo do Projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Apresentar meu perfil profissional como **Pentest Web Jr**
+- Centralizar **labs, estudos, práticas e projetos**
+- Demonstrar entendimento de:
+  - Vulnerabilidades web
+  - OWASP Top 10
+  - Conceitos de segurança ofensiva
+- Aplicar boas práticas de **frontend moderno** para criação de uma landing page profissional
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧪 Conteúdo do Portfólio
 
-To learn more about Next.js, take a look at the following resources:
+O portfólio inclui (ou incluirá):
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🔍 **Labs de Pentest Web**
+  - Testes de SQL Injection
+  - XSS (Reflected / Stored)
+  - CSRF
+  - Broken Authentication
+  - IDOR
+- 📚 **Estudos de Vulnerabilidades**
+  - OWASP Top 10
+  - CWE
+  - CVE (análise e entendimento)
+- 🛠️ **Ferramentas**
+  - Burp Suite
+  - Nmap
+  - OWASP ZAP
+  - Browser DevTools
+- 🧠 **Metodologia**
+  - Reconhecimento
+  - Enumeração
+  - Exploração
+  - Validação de impacto
+  - Mitigação
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🖥️ Tecnologias Utilizadas
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Este projeto foi desenvolvido com tecnologias modernas do ecossistema frontend:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# portifolio_profissional
->>>>>>> c8f994e8b8931e11215de81520be6fb452f330f5
+- **Next.js (App Router)**
+- **React**
+- **Tailwind CSS (versão mais recente)**
+- **shadcn/ui**
+- **TypeScript**
+- **Git & GitHub**
+
+> O uso dessas tecnologias reflete o entendimento de como aplicações modernas são construídas — conhecimento essencial para quem atua com **pentest web**.
+
+---
+
+## 📐 Design e UX
+
+- Paleta de cores inspirada em **cibersegurança**
+- Layout simples, limpo e profissional
+- Foco em legibilidade e clareza
+- Componentes reutilizáveis
+- Estrutura pensada para evolução contínua
+
+---
+
+## 🚀 Status do Projeto
+
+🟡 **Em desenvolvimento**
+
+Próximas etapas:
+- Finalização das seções principais
+- Inclusão de labs documentados
+- Deploy público
+- Revisão final de UX e acessibilidade
+
+---
+
+## 📌 Sobre mim
+
+Sou estudante e entusiasta de **Cibersegurança**, com foco em **Pentest Web**, buscando minha primeira oportunidade profissional na área.
+
+Tenho interesse especial em:
+- Segurança ofensiva
+- Vulnerabilidades em aplicações web
+- Aprendizado prático através de labs e projetos reais
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/cl
